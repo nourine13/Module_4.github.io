@@ -8,7 +8,8 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Module 4 Solution Starter</h1>
   <h1>Inspect Element please!</h1>
+  <h1>Module 4 Solution Starter</h1>
+  
 </body>
 </html>
